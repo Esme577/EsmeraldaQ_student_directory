@@ -1,6 +1,6 @@
 
 import StudentCard from "./Components/StudentCard";
-import { student } from "./data/student"
+import { students } from "../../backend/database/student"
 import './App.css'
 
 function App() {
